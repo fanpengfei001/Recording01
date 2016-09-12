@@ -6,4 +6,4 @@
 
  下载安卓: [apkpure.com]（https://apkpure.com/） 
  
- 注释：[商店地址] （https://play.google.com/store）
+ 注释：[Google Play]（https://play.google.com/store）
