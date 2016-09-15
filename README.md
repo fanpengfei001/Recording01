@@ -7,7 +7,7 @@
 
 ##  软件 思想 工具
 
-###浏览器：[Firefox国际版https://www.mozilla.org/en-US/firefox/all/refox/all/)
+###浏览器：[Firefox国际版](https://www.mozilla.org/en-US/firefox/all/refox/all/)
   
 
 下载[APK下载]  (https://apkpure.com/) （已墙）
