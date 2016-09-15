@@ -24,4 +24,4 @@
 
 [电报中国群组](https://github.com/stkevintan/telegram-chinese-groups)已失效
 
-[萤火虫]([V2Ray](https://www.v2ray.com/)
+[萤火虫](https://github.com/yinghuocho/firefly-proxy)
