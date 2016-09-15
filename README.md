@@ -7,4 +7,7 @@
 下载###[安卓应用]  (https://apkpure.com/) 
 @注释：从[Google Play](https://play.google.com/store)获取应用名称.
  
+##擦破的
+ 破娃酱  https://github.com/breakwa11/shadowsocks-rss 
  
+ 雪 豹 ：https://github.com/squidproxy
