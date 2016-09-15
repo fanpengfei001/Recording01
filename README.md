@@ -10,7 +10,7 @@
 ###浏览器：[Firefox国际版](www.mozilla.org/en-US/firefox/all/)
   
 
-下载###[安卓应用]  (https://apkpure.com/) 
+下载[APK下载]  (https://apkpure.com/) （已墙）
 @注释：从[Google Play](https://play.google.com/store)获取应用名称.
  
  [雪 豹 ](https://github.com/squidproxy)
