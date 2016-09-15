@@ -4,6 +4,7 @@
   
 ##手机软件：[Shadowsocks] (https://www.dropbox.com/s/0v98nj95jxxwzhm/shadowsocks.apk?dl=0)
 
-##[安卓应用]  (https://apkpure.com/) @注释：从###[Google Play](https://play.google.com/store)获取应用名称.
+下载###[安卓应用]  (https://apkpure.com/) 
+@注释：从###[Google Play](https://play.google.com/store)获取应用名称.
  
  
