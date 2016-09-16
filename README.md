@@ -1,9 +1,6 @@
 
 
 
-#封锁越来越紧了，说明鬼子的末日就要到了。------李向阳
-
-
 
 ##  软件 思想 工具
 
@@ -25,3 +22,8 @@
 [电报中国群组](https://github.com/stkevintan/telegram-chinese-groups)已失效
 
 [萤火虫](https://github.com/yinghuocho/firefly-proxy)
+
+ 149.56.44.241 或 158.69.223.144 或 158.69.212.186
+
+9968
+ 
