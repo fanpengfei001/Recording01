@@ -26,8 +26,10 @@
  149.56.44.241 或 158.69.223.144 或 158.69.212.186
 
 9968
- #fanpengfei522@tutanotacom
+ ##____fanpengfei522@tutanotacom
  
  http://www.ae86.pub/
  
  [自控力 - 搜索结果 - 知乎](https://www.zhihu.com/question/21368231)
+ [中国权威专业性科学资讯|](http://www.zgxkx.org/sex/zgsex/Index.html)
+ 
