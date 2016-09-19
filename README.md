@@ -26,5 +26,6 @@
  149.56.44.241 或 158.69.223.144 或 158.69.212.186
 
 9968
- [fanpengfei522@tutanota.com]
+ #fanpengfei522@tutanotacom
+ 
  http://www.ae86.pub/
