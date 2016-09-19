@@ -2,7 +2,7 @@
 
 
 
-##  软件 思想 工具
+##  软件 思想 工具 资讯
 
 ####浏览器：[Firefox国际版](https://www.mozilla.org/en-US/firefox/all/refox/all/)
   
@@ -29,3 +29,5 @@
  #fanpengfei522@tutanotacom
  
  http://www.ae86.pub/
+ 
+ [自控力 - 搜索结果 - 知乎](https://www.zhihu.com/question/21368231)
